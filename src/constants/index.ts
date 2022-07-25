@@ -1,0 +1,1 @@
+export const passwordMongoDB = "Silwer2259260"
